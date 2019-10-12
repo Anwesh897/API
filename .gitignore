@@ -1,0 +1,5 @@
+node_modules
+jwt.json
+test.p8
+.env
+AuthKey_CR72HZP3LV.p8
